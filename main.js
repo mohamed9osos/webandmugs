@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.style.transition = "all 0.3s ease-out"
 
     setTimeout(() => {
-      window.location.href = "designer.html"
+      window.location.href = "https://mohamed9osos.github.io/mugs2/"
     }, 300)
   }
 
@@ -192,3 +192,4 @@ function preloadImages() {
 
 // Call preload function
 preloadImages()
+
